@@ -3,34 +3,40 @@
   <head>
     <meta charset="utf-8">
     <title>Hubspot</title>
+    <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,700;1,300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
     <link rel="stylesheet" href="css/main.css">
   </head>
   <body>
 
     <!--header-->
-    <header class="centratura">
+    <header class="">
 
       <div>
 
         <!--prima barra nav fixed-->
         <div id="fixed">
 
-          <nav class="clearfix">
+          <nav class="clearfix centratura bordo">
 
             <div class="colonna50">
-              <ul>
-                <li><a class="linea grigio" href="#">English</a></li>
-                <li><a class="linea grigio" href="#">Contact Us</a></li>
-              </ul>
+              <div class="navl">
+                <ul>
+                  <li><a class="linea" href="#"><i class="fas fa-globe-americas"></i></a></li>
+                  <li><a class="linea grigio padd" href="#">English</a></li>
+                  <li><a class="linea grigio contact-us" href="#">Contact Us</a></li>
+                </ul>
+              </div>
             </div>
 
             <div class="colonna50">
-              <ul>
-                <li><a class="linea" href="#"><i class="fas fa-search"></i></a></li>
-                <li><a class="linea bottone" id="bottonebianco" href="#">Login</a></li>
-                <li><a class="linea bottone bottonearancio" href="#">GetHubspotfree</a></li>
-              </ul>
+              <div class="navl destra">
+                <ul>
+                  <li><a class="linea padd" href="#"><i class="fas fa-search"></i></a></li>
+                  <li><a class="linea bottone" id="bottonebianco" href="#">Log in</a></li>
+                  <li><a class="linea bottone bottonearancio" href="#">Get Hub spot free</a></li>
+                </ul>
+              </div>
             </div>
 
           </nav>
@@ -39,29 +45,51 @@
         <!--fine prima barra nav fixed-->
 
         <!--seconda barra nav-->
-        <nav class="clearfix posizione">
+        <div class="">
 
-          <div class="colonna50">
-            <a href="#"><img src="img/logo.svg" alt=""></a>
-          </div>
+          <nav class="clearfix posizione centratura ombra ">
 
-          <div class="colonna50">
+            <div class="colonna50 centratura2">
+              <a class="padd" href="#"><img id="padh" src="img/logo.svg" alt=""></a>
+            </div>
 
-          </div>
+            <div class="colonna50 centraturah">
+              <div class="nal destra">
+                <ul>
+                  <li><a class="linea grassetto grigio spazi" href="#">Software</a></li>
+                  <li><a class="linea grassetto grigio spazi"  href="#">Pricing</a></li>
+                  <li><a class="linea grassetto grigio spazi" href="#">Resources</a></li>
+                  <li><a class="linea grassetto grigio spazi" href="#">Partners</a></li>
+                  <li><a class="linea grassetto grigio spazi" href="#">About</a></li>
+                </ul>
+              </div>
+            </div>
 
-        </nav>
+          </nav>
+
+        </div>
         <!--fine seconda barra nav-->
 
 
         <!--jumbotron-->
         <section id="jumbotron">
 
-          <div class="">
+          <div id="colonnatitolo" class="grigio">
+
+            <h1>There’s a better way to grow.</h1>
+            <p id="ptitolo">Marketing, sales, and service software that helps your business grow without compromise. Because “good for the business” should also mean “good for the customer.”</p>
+            <a class="bottonetit bottonearancio"href="#">Get Hub spot free</a>
+            <p id="sottotitolo">Get started with FREE tools, and<br>upgrade as you grow.</p>
 
           </div>
 
         </section>
         <!--fine jumbotron-->
+
+
+        <div class="barra">
+
+        </div>
 
 
       </div>
