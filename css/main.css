@@ -1,7 +1,23 @@
 
 /* regole generali */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+.centratura {
+  padding: 0 5%;
+}
+
+/* regole generali */
+
+
+/* regole griglia */
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
 }
