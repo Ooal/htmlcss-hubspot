@@ -20,6 +20,9 @@ header {
   margin-bottom: 60px;
   text-align: center;
 }
+.sez {
+  padding-bottom: 100px;
+}
 
 li, li .linea {
   display: inline;
@@ -122,7 +125,6 @@ li, li .linea {
   height: 100px;
   border: solid 1px #000;*/
 }
-
 /* regole griglia */
 
 
@@ -217,9 +219,9 @@ h1 {
   font-size: 45px;
   padding-bottom: 20px;
 }
-#ptitolo {
-  font-size: 20px;
-  padding-bottom: 30px;
+.ptitolo {
+  font-size: 18px;
+  padding-bottom: 60px;
 }
 .bottonetit {
   padding: 20px 20px;
@@ -367,3 +369,26 @@ h6 {
   padding-bottom: 30px;
 }
 /* seconda sezione verdeacqua */
+/* seconda sezionebianca */
+#fonth3 {
+  margin-top: 35px;
+  margin-bottom: 30px;
+  font-size: 60px;
+}
+.sottotitolosezione2 {
+  font-size: 20px;
+}
+.sponsor {
+  width: 15%;
+  margin: 55px 40px;
+}
+.plus {
+  width: 15%;
+  margin: 75px 40px;
+}
+.tipa {
+  width: 25%;
+  margin-left: 532px;
+  margin-bottom: 100px;
+}
+/* seconda sezionebianca */
