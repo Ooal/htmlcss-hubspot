@@ -16,6 +16,11 @@ header {
   padding: 0 10%;
 }
 
+.sezsing {
+  margin-bottom: 60px;
+  text-align: center;
+}
+
 li, li .linea {
   display: inline;
   text-decoration: none;
@@ -23,6 +28,15 @@ li, li .linea {
 
 .grigio {
   color: #41464a;
+}
+.bianco {
+  color: white;
+}
+.sfondogrigio {
+  background-color: #f4f9fd;
+}
+.sfondoverdeacqua {
+  background-image: linear-gradient(45deg,#00a4bd,#00bda5);
 }
 
 .grassetto {
@@ -59,9 +73,9 @@ li, li .linea {
   width: 25%;
   float: left;
   /* debug */
-  background-color: lightblue;
-  height: 100px;
-  border: solid 1px #000;
+  /*background-color: lightblue;
+  height: 100px;*/
+/*  border: solid 1px #000;*/
 }
 .colonna33 {
   width: 30%;
@@ -188,7 +202,7 @@ li, li .linea {
   position: relative;
   background: #fef3ef url('../img/jumbotron.png') no-repeat;
   background-size: 100%;
-  height: 922px;
+  min-height: 820px;
   width: 100%;
   background-position: center;
   z-index: 11;
@@ -197,7 +211,7 @@ li, li .linea {
   padding-left: 10%;
   width: 30%;
   position: relative;
-  top: 15%;
+  top: 100px;
 }
 h1 {
   font-size: 45px;
@@ -214,7 +228,7 @@ h1 {
   text-decoration: none;
   font-size: 20px;
 }
-#sottotitolo {
+.sottotitolo {
   font-size: 15px;
   padding-top: 30px;
 }
@@ -234,9 +248,7 @@ h1 {
 
 
 /* main*/
-.sfondo {
-  background-color: #f4f9fd;
-}
+
 .grigio h3 {
   margin-top: 35px;
   margin-bottom: 30px;
@@ -250,10 +262,6 @@ h1 {
 }
 /* prima sezione bianca */
 /* Powerful Alone */
-.power {
-  margin-bottom: 60px;
-  text-align: center;
-}
 #cube {
   margin-top: 50px;
   border-top: 10px;
@@ -317,8 +325,39 @@ h1 {
   padding: 0 30px;
 }
 .c33 p {
-  padding: 30px 0;
+  padding-bottom: 50px;
 }
-
 /* Tre Colonne */
 /* prima sezione bianca */
+
+
+/* seconda sezione verdeacqua */
+#tit {
+  padding-top: 80px;
+}
+#sottit {
+  padding: 0 30%;
+}
+.bot {
+  border-bottom: solid 1px white;
+}
+.sd {
+  border-left: solid 1px white;
+  border-right: solid 1px white;
+}
+.d {
+  border-right: solid 1px white;
+}
+.immaginibianche {
+  width: 20%;
+  padding-top: 30px;
+}
+h6 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.learn {
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+/* seconda sezione verdeacqua */
