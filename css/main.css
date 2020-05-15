@@ -7,15 +7,12 @@
   box-sizing: border-box;
   font-family: 'Jost', sans-serif;
 }
-
 header {
   position: relative;
 }
-
 .centratura {
   padding: 0 10%;
 }
-
 .sezsing {
   margin-bottom: 60px;
   text-align: center;
@@ -23,12 +20,10 @@ header {
 .sez {
   padding-bottom: 100px;
 }
-
 li, li .linea {
   display: inline;
   text-decoration: none;
 }
-
 .grigio {
   color: #41464a;
 }
@@ -41,22 +36,18 @@ li, li .linea {
 .sfondoverdeacqua {
   background-image: linear-gradient(45deg,#00a4bd,#00bda5);
 }
-
 .grassetto {
   font-weight: bold;
 }
-
 .bottone {
   padding: 5px 10px;
   border: solid 1px #fc7659;
   border-radius: 5px;
 }
-
 #bottonebianco {
   background-color: white;
   color: #fc7659;
 }
-
 .bottonearancio {
   background-color: #fc7659;
   color: white;
@@ -71,7 +62,6 @@ li, li .linea {
   display: table;
   clear: both;
 }
-
 .colonna25 {
   width: 25%;
   float: left;
@@ -80,23 +70,19 @@ li, li .linea {
   width: 30%;
   float: left;
 }
-
 .colonna33c {
   width: 30%;
   float: left;
   margin:  0 5%;
 }
-
 .colonna40 {
   width: 40%;
   float: left;
 }
-
 .colonna50 {
   width: 50%;
   float: left;
 }
-
 .colonna60 {
   width: 60%;
   float: left;
@@ -206,19 +192,9 @@ h1 {
   font-size: 15px;
   padding-top: 30px;
 }
-
 /* jumbotron */
 
 /* header */
-
-
-
-
-
-
-
-
-
 
 /* main*/
 
@@ -301,8 +277,6 @@ h1 {
   padding-bottom: 50px;
 }
 /* Tre Colonne */
-
-
 /* prima sezione bianca */
 /* seconda sezione verdeacqua */
 #tit {
@@ -363,17 +337,7 @@ h6 {
   margin-bottom: 100px;
 }
 /* seconda sezionebianca */
-
 /* main */
-
-
-
-
-
-
-
-
-
 
 /* footer */
 
@@ -406,7 +370,6 @@ h6 {
 }
 /* 4colonne */
 /* colonna */
-
 .lingue {
   font-size: 20px;
   margin-right: 20px;
@@ -421,7 +384,6 @@ h6 {
     height: 100px;
     line-height: 40px;
 }
-
 /* footer */
 
 /* hover */
