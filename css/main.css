@@ -75,55 +75,31 @@ li, li .linea {
 .colonna25 {
   width: 25%;
   float: left;
-  /* debug */
-  /*background-color: lightblue;
-  height: 100px;*/
-/*  border: solid 1px #000;*/
 }
 .colonna33 {
   width: 30%;
   float: left;
-  /* debug */
-  /*background-color: lightblue;
-  height: 100px;
-  border: solid 1px #000;*/
 }
 
 .colonna33c {
   width: 30%;
   float: left;
   margin:  0 5%;
-  /* debug */
-  /*background-color: lightblue;
-  height: 100px;
-  border: solid 1px #000;*/
 }
 
 .colonna40 {
   width: 40%;
   float: left;
-  /* debug */
-  /*background-color: lightblue;
-  height: 100px;
-  border: solid 1px #000;*/
 }
 
 .colonna50 {
   width: 50%;
   float: left;
-  /* debug */
-/*  background-color: lightblue;
-  height: 100px;
-  border: solid 1px #000;*/
 }
 
 .colonna60 {
   width: 60%;
   float: left;
-  /* debug */
-  /*background-color: lightblue;
-  height: 100px;
-  border: solid 1px #000;*/
 }
 /* regole griglia */
 
@@ -169,9 +145,7 @@ li, li .linea {
   border-bottom: solid 1px #cbd6e2;
 }
 /* navbar fixed */
-
 /* navbar */
-
 .posizione {
   margin-top: 80px;
 }
@@ -197,9 +171,7 @@ li, li .linea {
   z-index: 90;
 }
 /* navbar */
-
 /* jumbotron */
-
 #jumbotron {
   position: relative;
   background: #fef3ef url('../img/jumbotron.png') no-repeat;
@@ -234,14 +206,6 @@ h1 {
   font-size: 15px;
   padding-top: 30px;
 }
-
-/*.barra {
-  height: 120px;
-  width: 100%;
-  background-color: #afeae4;
-  border-bottom: solid 5px #384653;
-  border-top: solid 5px #384653;
-}*/
 
 /* jumbotron */
 
@@ -337,9 +301,9 @@ h1 {
   padding-bottom: 50px;
 }
 /* Tre Colonne */
+
+
 /* prima sezione bianca */
-
-
 /* seconda sezione verdeacqua */
 #tit {
   padding-top: 80px;
@@ -412,6 +376,7 @@ h6 {
 
 
 /* footer */
+
 /* 4colonne */
 .sfondofooter{
   background-color: #32495b;
@@ -455,4 +420,5 @@ h6 {
     height: 100px;
     line-height: 40px;
 }
+
 /* footer */
