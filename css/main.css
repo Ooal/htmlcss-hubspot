@@ -249,6 +249,13 @@ h1 {
 
 
 
+
+
+
+
+
+
+
 /* main*/
 
 .grigio h3 {
@@ -392,3 +399,60 @@ h6 {
   margin-bottom: 100px;
 }
 /* seconda sezionebianca */
+
+/* main */
+
+
+
+
+
+
+
+
+
+
+/* footer */
+/* 4colonne */
+.sfondofooter{
+  background-color: #32495b;
+}
+.afooter {
+  display: block;
+  text-decoration: none;
+  margin: 20px 0;
+}
+.h6footer {
+  font-size: 20px;
+}
+.bottonefooter {
+  width: 52%;
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: block;
+  text-decoration: none;
+  margin: 20px 0;
+  color: #32495b;
+  background-color:white;
+}
+.ibianco {
+  margin: 0 10px;
+  color: white;
+}
+/* 4colonne */
+/* colonna */
+
+.lingue {
+  font-size: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding-top: 20px;
+}
+#bordobianco {
+  border-bottom: solid 2px white;
+}
+/* colonna */
+.centratura3 {
+    height: 100px;
+    line-height: 40px;
+}
+/* footer */
