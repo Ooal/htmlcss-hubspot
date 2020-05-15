@@ -385,6 +385,7 @@ h6 {
   display: block;
   text-decoration: none;
   margin: 20px 0;
+  color: white;
 }
 .h6footer {
   font-size: 20px;
@@ -422,3 +423,18 @@ h6 {
 }
 
 /* footer */
+
+/* hover */
+.arancio {
+  color: #fe775a;
+}
+#hoverarancio:hover {
+ background-color: #fe775a;
+ color: white;
+}
+.hoverbottone:hover{
+  background-color:rgba(254, 119, 90, 0.5);
+}
+.linkfooter:hover{
+ color: #67d1de;
+}
