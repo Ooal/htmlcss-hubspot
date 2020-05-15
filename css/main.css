@@ -237,6 +237,17 @@ h1 {
 .sfondo {
   background-color: #f4f9fd;
 }
+.grigio h3 {
+  margin-top: 35px;
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+.grigio h4 {
+  margin-top: 35px;
+  font-size: 22px;
+  display: inline-block;
+  margin-bottom: 25px;
+}
 /* prima sezione bianca */
 /* Powerful Alone */
 .power {
@@ -287,17 +298,6 @@ h1 {
   font-size: 15px;
   color: #fc7659;
 }
-h3 {
-  margin-top: 35px;
-  margin-bottom: 30px;
-  font-size: 30px;
-}
-h4 {
-  margin-top: 35px;
-  font-size: 22px;
-  display: inline-block;
-  margin-bottom: 25px;
-}
 #lineainline {
   margin-left: 30px;
   width: 500px;
@@ -312,4 +312,13 @@ h4 {
   margin: 15px 0;
 }
 /* Free Hubspot */
+/* Tre Colonne */
+.c33 {
+  padding: 0 30px;
+}
+.c33 p {
+  padding: 30px 0;
+}
+
+/* Tre Colonne */
 /* prima sezione bianca */
