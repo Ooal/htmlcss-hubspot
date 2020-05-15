@@ -349,12 +349,18 @@ h1 {
   border-right: solid 1px white;
 }
 .immaginibianche {
+  padding-top: 30px;
+
+}
+.immaginibianchequad {
   width: 20%;
   padding-top: 30px;
 }
 h6 {
+  padding: 20px 0;
   font-size: 40px;
   font-weight: bold;
+  display: inline-block;
 }
 .learn {
   font-size: 20px;
