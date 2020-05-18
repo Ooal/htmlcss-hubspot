@@ -1,6 +1,5 @@
 
 /* regole generali */
-
 * {
   margin: 0;
   padding: 0;
@@ -56,7 +55,6 @@ li, li .linea {
 
 
 /* regole griglia */
-
 .clearfix::after {
   content: "";
   display: table;
@@ -91,7 +89,6 @@ li, li .linea {
 
 
 /* header */
-
 /* navbar fixed */
 #fixed {
   position: fixed;
@@ -193,11 +190,11 @@ h1 {
   padding-top: 30px;
 }
 /* jumbotron */
-
 /* header */
 
-/* main*/
 
+
+/* main*/
 .grigio h3 {
   margin-top: 35px;
   margin-bottom: 30px;
@@ -339,8 +336,9 @@ h6 {
 /* seconda sezionebianca */
 /* main */
 
-/* footer */
 
+
+/* footer */
 /* 4colonne */
 .sfondofooter{
   background-color: #32495b;
@@ -385,6 +383,8 @@ h6 {
     line-height: 40px;
 }
 /* footer */
+
+
 
 /* hover */
 .arancio {
