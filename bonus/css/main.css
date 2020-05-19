@@ -155,13 +155,14 @@ li ,.menu li a{
 }
 .menu2 ul li {
   position: relative;
-  float: left;
   list-style-type: none;
+  float: left;
 
 }
 .menu2 li a {
   display: block;
   text-decoration: none;
+  margin-left: 10px;
 }
 .menu2 ul {
   position: absolute;
